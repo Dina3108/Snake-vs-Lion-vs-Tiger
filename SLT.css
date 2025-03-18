@@ -181,6 +181,7 @@ body {
   }
   .video-edit {
     height: 230px;
+    width:300px;
     border: solid 3px rgb(195, 6, 247);
     border-radius: 20px;
   }
